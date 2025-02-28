@@ -6,7 +6,7 @@ Your project "My Classmates" is a simple React-based web application that displa
 
 <!-- Github page link -->
 
-https://nikhildevarakonda320.github.io/my_classmates_cs/
+https://nikhildevarakonda320.github.io/classmates/
 
 
 <!-- AI used -->
